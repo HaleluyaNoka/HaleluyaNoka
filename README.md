@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HaleluyaNoka
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me haleluyanoka888@gmail.com
 
 <!---
 HaleluyaNoka/HaleluyaNoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Haleluya Noka
 
-🎓 Fresh Graduate Informatics Engineering Student at Satya Wacana Christian University with GPA : 3.83/4.0
-📊 Aspiring Data Scientist | Machine Learning Engineer | Software Developer
-📍 Indonesia
+🎓 Fresh Graduate Informatics Engineering Student at Satya Wacana Christian University with GPA : 3.83/4.0 </br>
+📊 Aspiring Data Scientist | Machine Learning Engineer | Software Developer </br>
+📍 Indonesia </br>
 
 ---
 

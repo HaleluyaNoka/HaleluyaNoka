@@ -104,7 +104,7 @@ I have experience in:
 
 #### 7. Coconut Product Startup Website
 
-🔗 Repo: https://github.com/HaleluyaNoka/PortoProdukKelapaGlen
+🔗 Repo: https://github.com/HaleluyaNoka/PortoProdukKelapaGlen </br>
 🌍 Demo: https://haleluyanoka.github.io/PortoProdukKelapaGlen/index.html
 
 * Built responsive landing page using Bootstrap
@@ -114,7 +114,7 @@ I have experience in:
 
 #### 8. Burjo Restaurant Website (UI/UX Project)
 
-🔗 Repo: https://github.com/HaleluyaNoka/IMK_Tugas_Rancang_AAThea
+🔗 Repo: https://github.com/HaleluyaNoka/IMK_Tugas_Rancang_AAThea </br>
 🌍 Demo: https://haleluyanoka.github.io/IMK_Tugas_Rancang_AAThea/
 
 * Designed UI/UX prototype for restaurant
@@ -124,7 +124,7 @@ I have experience in:
 
 #### 9. Tetris Game (Pure Frontend)
 
-🔗 Repo: https://github.com/HaleluyaNoka/project_tetris
+🔗 Repo: https://github.com/HaleluyaNoka/project_tetris </br>
 🌍 Demo: https://haleluyanoka.github.io/project_tetris/
 
 * Built full Tetris game using JavaScript logic
@@ -134,7 +134,7 @@ I have experience in:
 
 #### 10. Personal Portfolio Website (v2)
 
-🔗 Repo: https://github.com/HaleluyaNoka/portofolio-nokav2
+🔗 Repo: https://github.com/HaleluyaNoka/portofolio-nokav2 </br>
 🌍 Demo: https://haleluyanoka.github.io/portofolio-nokav2/
 
 * Personal branding website
@@ -144,7 +144,7 @@ I have experience in:
 
 #### 11. Teaching Assistant UI/UX Website
 
-🔗 Repo: https://github.com/HaleluyaNoka/ASDOSIMK-Bootstrap-672022069
+🔗 Repo: https://github.com/HaleluyaNoka/ASDOSIMK-Bootstrap-672022069 </br>
 🌍 Demo: https://haleluyanoka.github.io/ASDOSIMK-Bootstrap-672022069/
 
 * Used as teaching material for UI/UX course
@@ -163,7 +163,7 @@ I have experience in:
 
 #### 13. First Portfolio Website
 
-🔗 Repo: https://github.com/HaleluyaNoka/Portofolio-HaleluyaNoka
+🔗 Repo: https://github.com/HaleluyaNoka/Portofolio-HaleluyaNoka </br>
 🌍 Demo: https://haleluyanoka.github.io/Portofolio-HaleluyaNoka/
 
 * First personal portfolio
@@ -173,7 +173,7 @@ I have experience in:
 
 #### 14. First Website Project
 
-🔗 Repo: https://github.com/HaleluyaNoka/Avengersnoka.github.io
+🔗 Repo: https://github.com/HaleluyaNoka/Avengersnoka.github.io </br>
 🌍 Demo: https://haleluyanoka.github.io/Avengersnoka.github.io/
 
 * First experience building a website

@@ -13,8 +13,8 @@ Highly adaptable and responsible Computer Science graduate with hands-on experie
 I have experience in:
 
 * Machine Learning & Deep Learning
-* Computer Vision (ONNX, TFLite, PyTorch, NCNN)
-* Data Analysis & Predictive Modeling
+* Data Analysis & Engineering
+* Encryption & Decryption
 * Fullstack Development (Frontend & Backend)
 
 💡 Passionate about solving real-world problems using data and continuously improving my technical skills.

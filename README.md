@@ -213,8 +213,8 @@ I have experience in:
 
 ## 📫 Contact Me
 
-📧 Email: [haleluyanoka888@gmail.com](mailto:haleluyanoka888@gmail.com)
-🌐 Portfolio: https://haleluyanoka.github.io/portofolio-nokav2/
+📧 Email: [haleluyanoka888@gmail.com](mailto:haleluyanoka888@gmail.com) </br>
+🌐 Portfolio: https://haleluyanoka.github.io/portofolio-nokav2/ </br>
 🔗 LinkedIn: https://linkedin.com/in/haleluya-noka
 
 ---
